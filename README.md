@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository:
 
-    git clone https://github.com/sibtc/simple-django-login.git
+    git clone https://github.com/misaelljr/handson_services_django.git
 
 ### 2. Executar migrações:
 
